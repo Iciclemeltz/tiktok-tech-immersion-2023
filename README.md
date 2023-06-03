@@ -14,5 +14,5 @@ focusing on core message features without the front-end part and the account/aut
 4. Performance and Scalability: Able to handle a relatively large number of users and messages. (more than 20 concurrent users)
 
 ## System Artitecture Design
-![design](https://github.com/Iciclemeltz/tiktok-tech-immersion-2023/assets/71871315/af462021-180c-480c-8a98-2bf28b632dbd)
+![UML diagram](https://github.com/Iciclemeltz/tiktok-tech-immersion-2023/assets/71871315/6c811967-e503-4ad4-8e22-215dbce63435)
 
