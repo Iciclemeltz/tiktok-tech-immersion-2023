@@ -25,7 +25,7 @@ focusing on core message features without the front-end part and the account/aut
 
 ## Testing
 1. For Unit Testing, this project is unable to do as the database used in this case is Redis. It will not work as it cannot connect to the Redis server.
-2. For the handling of more than 20 concurrent users JMeter is used to test for this scenario. Use the JMeter file that is in this repository.
+2. For the handling of more than 20 concurrent users JMeter is used to test for this scenario. Use the JMeter file in the repo and the QPS can be changed in the thread group.
 
 ## Installation Links
 1. Golang IDE (jetbrains): https://www.jetbrains.com/go/
