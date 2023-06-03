@@ -14,7 +14,8 @@ focusing on core message features without the front-end part and the account/aut
 4. Performance and Scalability: Able to handle a relatively large number of users and messages. (more than 20 concurrent users)
 
 ## System Artitecture Design
-![UML diagram](https://github.com/Iciclemeltz/tiktok-tech -immersion-2023/assets/71871315/6c811967-e503-4ad4-8e22-215dbce63435)
+![UML diagram](https://github.com/Iciclemeltz/tiktok-tech-immersion-2023/assets/71871315/0aa7b01f-8e1b-4917-ad3d-3fc4ea45f869)
+
 
 ## Implementation
 1. For the database, Redis will be used. It is an open source in memory data and for this project advanced queries are not needed too.
