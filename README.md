@@ -4,9 +4,15 @@
 
 ## Overview
 Designing and implementing a backend Instant Messaging system.
+For this assignment, the focus will be on the backend only,
+focusing on core message features without the front-end part and the account/authentication part.
 
 ## Requirements
 1. Architecture: HTTP server and RPC server.
 2. Data Storage: To store the the messages data.
 3. Messages Delivery: deliver messages to the intended recipients in timely and consistent manner.
 4. Performance and Scalability: Able to handle a relatively large number of users and messages. (more than 20 concurrent users)
+
+## System Artitecture Design
+![design](https://github.com/Iciclemeltz/tiktok-tech-immersion-2023/assets/71871315/af462021-180c-480c-8a98-2bf28b632dbd)
+
