@@ -14,11 +14,17 @@ focusing on core message features without the front-end part and the account/aut
 4. Performance and Scalability: Able to handle a relatively large number of users and messages. (more than 20 concurrent users)
 
 ## System Artitecture Design
-![UML diagram](https://github.com/Iciclemeltz/tiktok-tech-immersion-2023/assets/71871315/6c811967-e503-4ad4-8e22-215dbce63435)
+![UML diagram](https://github.com/Iciclemeltz/tiktok-tech -immersion-2023/assets/71871315/6c811967-e503-4ad4-8e22-215dbce63435)
 
 ## Implementation
 1. For the database, Redis will be used. It is an open source in memory data and for this project advanced queries are not needed too.
-2. Golang is required to be installed on the computer.
+2. Golang is required to be installed on the computer. For this project, Golang IDE will be used 
 3. Docker will be used to run this project.Hence, Docker will be required to be installed as well.
+4. Postman will be used to test out the API as well.
+
+## Installation Links
+1. Golang IDE (jetbrains): https://www.jetbrains.com/go/
+2. Docker: https://docs.docker.com/desktop/install/windows-install/
+3. Postman: https://www.postman.com/downloads/
 
 
