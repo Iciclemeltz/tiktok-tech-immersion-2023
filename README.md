@@ -32,9 +32,10 @@ focusing on core message features without the front-end part and the account/aut
 
 ## Installation Links
 1. Golang IDE (jetbrains): https://www.jetbrains.com/go/
-2. Docker: https://docs.docker.com/desktop/install/windows-install/
-3. Postman: https://www.postman.com/downloads/
-4. JMeter: https://jmeter.apache.org/download_jmeter.cgi
-5. Kubernetes Cluster: https://kubernetes.io/releases/download/
+2. Redis: https://aws.amazon.com/redis/
+3. Docker: https://docs.docker.com/desktop/install/windows-install/
+4. Postman: https://www.postman.com/downloads/
+5. JMeter: https://jmeter.apache.org/download_jmeter.cgi
+6. Kubernetes Cluster: https://kubernetes.io/releases/download/
 
 
