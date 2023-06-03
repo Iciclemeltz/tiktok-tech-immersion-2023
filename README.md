@@ -23,6 +23,12 @@ focusing on core message features without the front-end part and the account/aut
 3. Docker will be used to run this project.Hence, Docker will be required to be installed as well.
 4. Postman will be used to test out the API as well.
 
+## Running The Program
+1. right clock on docker-compose.yml and click on run. Wait for it to initialise and run.
+2. Atfter the setup is done, use Postman to test the APIs. 
+3. Afterwards, use the cURL format to import the request and try sending the message.
+4. Note that the demo code logic has a 50% chance of getting a 200 Success Message or an 500 Internal Error.
+
 ## Testing
 1. For Unit Testing, this project is unable to do as the database used in this case is Redis. It will not work as it cannot connect to the Redis server.
 2. For the handling of more than 20 concurrent users JMeter is used to test for this scenario. Use the JMeter file in the repo and the QPS can be changed in the thread group.
