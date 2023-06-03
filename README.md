@@ -16,3 +16,9 @@ focusing on core message features without the front-end part and the account/aut
 ## System Artitecture Design
 ![UML diagram](https://github.com/Iciclemeltz/tiktok-tech-immersion-2023/assets/71871315/6c811967-e503-4ad4-8e22-215dbce63435)
 
+## Implementation
+1. For the database, Redis will be used. It is an open source in memory data and for this project advanced queries are not needed too.
+2. Golang is required to be installed on the computer.
+3. Docker will be used to run this project.Hence, Docker will be required to be installed as well.
+
+
