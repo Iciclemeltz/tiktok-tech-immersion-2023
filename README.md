@@ -23,6 +23,9 @@ focusing on core message features without the front-end part and the account/aut
 3. Docker will be used to run this project.Hence, Docker will be required to be installed as well.
 4. Postman will be used to test out the API as well.
 
+## Testing
+1. For Unit Testing, this project is unable to do as the database used in this case is Redis. It will not work as it cannot connect to the Redis server.
+
 ## Installation Links
 1. Golang IDE (jetbrains): https://www.jetbrains.com/go/
 2. Docker: https://docs.docker.com/desktop/install/windows-install/
